@@ -11,7 +11,7 @@
 </p>
 
 <!-- Hero Banner -->
-<img src="https://github.com/tubakhxn/tubakhxn/blob/main/github-header-image.png" width="100%">
+<img src="<img src="https://github.com/GeekTechHub/GeekTechHub/blob/main/github-header-image.png" width="100%">" width="100%">
 
 <!-- Intro -->
 <h3 align="center">A Passionate Full Stack Developer from India 🇮🇳</h3>
@@ -209,14 +209,14 @@
 ##  GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tubakhxn&show_icons=true&theme=radical" alt="tubakhxn GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=GeekTechHub&show_icons=true&theme=radical" alt="tubakhxn GitHub Stats"/>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tubakhxn&theme=github_dark"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GeekTechHub&theme=github_dark"/>
 </p>
 
-![Gitartwork](https://raw.githubusercontent.com/tubakhxn/tubakhxn/main/gitartwork.svg)
+![Gitartwork](https://raw.githubusercontent.com//GeekTechHub/GeekTechHub/main/gitartwork.svg)
 
 
 
@@ -248,7 +248,7 @@
 
 ## Snake Animation
 
-![Snake Animation](https://github.com/tubakhxn/tubakhxn/blob/output/github-contribution-grid-snake.svg)
+![Snake Animation](https://github.com/GeekTechHub/GeekTechHub/blob/output/github-contribution-grid-snake.svg)
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
