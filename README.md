@@ -11,7 +11,7 @@
 </p>
 
 <!-- Hero Banner -->
-<img src="<img src="https://github.com/GeekTechHub/GeekTechHub/blob/main/github-header-image.png" width="100%">" width="100%">
+<img src="https://github.com/GeekTechHub/GeekTechHub/blob/main/github-header-image.png" width="100%">"
 
 <!-- Intro -->
 <h3 align="center">A Passionate Full Stack Developer from Dominican Republic 🇩🇴</h3>
