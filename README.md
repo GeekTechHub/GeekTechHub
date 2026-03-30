@@ -164,7 +164,7 @@
 ##  GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GeekTechHub&show_icons=true&theme=radical" alt="tubakhxn GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=GeekTechHub&show_icons=true&theme=radical" alt="GeekTechHub GitHub Stats"/>
 </p>
 
 <p align="center">
